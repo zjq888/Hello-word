@@ -1,2 +1,2 @@
 # Hello-word
-myfirstgithub
+hi,myname is zhoujq,I like github very much;
